@@ -1,10 +1,16 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://lobe-music-parse-server.herokuapp.com/parse",
+    "appId": "DlIbcE0Xiy5upPCDpZXneHfAD76lDBiGvwcT51ee",
+    "masterKey": "Xlbt9tGnTBhgywUn6h8RsqmrkckndKCqnLadyI7l",
+    "appName": "LobeMusicDashboard",
     "iconName": ""
   }],
+  "users": [
+    {
+      "user":"admin",
+      "pass":"lobelive"
+    }
+  ],
   "iconsFolder": "icons"
 }
